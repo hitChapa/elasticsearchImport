@@ -1,0 +1,12 @@
+{
+  "name": "elasticImport",
+  "version": "0.0.0",
+  "private": false,
+  "dependencies": {
+    "JSONStream": "^1.1.1",
+    "elasticsearch": "^11.0.1",
+    "event-stream": "^3.3.2",
+    "kue": "^0.10.5"
+  },
+  "devDependencies": {}
+}
